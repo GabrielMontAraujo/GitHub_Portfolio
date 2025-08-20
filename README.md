@@ -53,7 +53,7 @@ Coleção de scripts Python/Bash para tarefas administrativas e troubleshooting.
 
 ## 📜 Certificações
 
-- 🎓 **AWS Cloud Practitioner** (em andamento - Dez/2024)
+- 🎓 **AWS Cloud Practitioner** (em andamento - Dez/2025)
 - 🎓 **Google IT Support Professional Certificate** (2023)
 - 🎓 **Linux Essentials - LPI** (2023)
 - 🎓 **Cisco Introduction to Cybersecurity** (2022)
