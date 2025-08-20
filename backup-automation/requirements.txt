@@ -1,0 +1,2 @@
+boto3==1.26.137
+configparser==5.3.0

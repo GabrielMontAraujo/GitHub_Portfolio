@@ -1,0 +1,21 @@
+# Configuração do backup MySQL para S3
+[mysql]
+host = localhost
+user = backup_user
+password = your_mysql_password
+databases = app_db,logs_db,users_db
+
+[aws]
+s3_bucket = company-mysql-backups
+region = us-east-1
+
+[backup]
+local_dir = /tmp/mysql_backups
+retention_days = 30
+
+[email]
+smtp_server = smtp.gmail.com
+smtp_port = 587
+user = alerts@company.com
+password = your_email_password
+notification_email = admin@company.com
