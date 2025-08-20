@@ -26,27 +26,27 @@ Bem-vindo ao meu portfólio! Aqui você encontra projetos práticos que demonstr
 
 ## 📁 Projetos em Destaque
 
-### [🔄 Automação de Backup MySQL → S3](./backup-automation/)
+### [🔄 Automação de Backup MySQL → S3](https://github.com/GabrielMontAraujo/GitHub_Portfolio/tree/main/backup-automation)
 Script Python que automatiza backup de bancos MySQL para AWS S3 com logs, notificações e rotação automática.
 - **Tech:** Python, AWS S3, MySQL, logging, cronjob
 - **Resultado:** Backup automático diário com retenção de 30 dias
 
-### [📊 Dashboard de Monitoramento](./grafana-monitoring/)
+### [📊 Dashboard de Monitoramento](https://github.com/GabrielMontAraujo/GitHub_Portfolio/tree/main/grafana-monitoring)
 Dashboard Grafana para monitorar performance de APIs e infraestrutura em tempo real.
 - **Tech:** Grafana, Prometheus, Python, Docker
 - **Resultado:** Visualização de métricas críticas e alertas automáticos
 
-### [🚀 Pipeline CI/CD Completo](./cicd-pipeline/)
+### [🚀 Pipeline CI/CD Completo](https://github.com/GabrielMontAraujo/GitHub_Portfolio/tree/main/cicd-pipeline)
 Pipeline GitLab CI que testa, builda e deploya aplicação Node.js em containers Docker.
 - **Tech:** GitLab CI, Docker, Node.js, Nginx, AWS
 - **Resultado:** Deploy automatizado com zero downtime
 
-### [🏠 Home Lab Infrastructure](./home-lab/)
+### [🏠 Home Lab Infrastructure](https://github.com/GabrielMontAraujo/GitHub_Portfolio/tree/main/home-lab)
 Documentação completa do meu laboratório pessoal com Proxmox, containers e monitoramento.
 - **Tech:** Proxmox, Docker, Zabbix, Ansible, Terraform
 - **Resultado:** Ambiente completo para testes e aprendizado
 
-### [🔧 Scripts de Administração](./admin-scripts/)
+### [🔧 Scripts de Administração](https://github.com/GabrielMontAraujo/GitHub_Portfolio/tree/main/admin-scripts)
 Coleção de scripts Python/Bash para tarefas administrativas e troubleshooting.
 - **Tech:** Python, Bash, PowerShell, Linux, Windows
 - **Resultado:** Automação de tarefas repetitivas e diagnósticos
